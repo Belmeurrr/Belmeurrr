@@ -20,7 +20,7 @@ My name is Daniel Belmeur and I am a new Graduate from San Francisco State Unive
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Belmeurrr&theme=radical" alt="Daniel's Top Languages"/>
 </a>
 <a href="https://github.com/Belmeurrr/Belemurrr">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Belmeurrr&show_icons=true&line_height=40&count_private=true&theme=radical" alt="Daniel's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Belmeurrr&show_icons=true&line_height=40&theme=radical" alt="Daniel's GitHub Stats" />
 <!--
 **Belmeurrr/Belmeurrr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
